@@ -1,0 +1,2 @@
+# US-Accident-Traffic-Analysis-and-Severity-Predictive-Model.
+Accurate prediction of severity of accidents can mitigate a considerable amount of road accidents and help saving time. Most of the analysis and prediction use a small dataset which leads to inaccuracies or more false positives. Here for analysis we have used a dataset that consists of around 2.4 million entries spread across the entire US. A prediction model using Random Forest Classifier is also built for the entire dataset to predict the severity of an accident.
