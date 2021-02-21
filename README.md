@@ -11,7 +11,7 @@ Accurate prediction of severity of accidents can mitigate a considerable amount 
 ![alt text](https://github.com/Zeus197/US-Accident-Traffic-Analysis-and-Severity-Predictive-Model./blob/master/AnalysisandArchitecture/Picture4.png)
 
 2. Severity 4 count of each state
-![alt text](https://github.com/Zeus197/US-Accident-Traffic-Analysis-and-Severity-Predictive-Model./blobmaster/AnalysisandArchitecture/Picture5.png)
+![alt text](https://github.com/Zeus197/US-Accident-Traffic-Analysis-and-Severity-Predictive-Model./blob/master/AnalysisandArchitecture/Picture5.png)
 
 3. Accident count for Different days of the week
 ![alt text](https://github.com/Zeus197/US-Accident-Traffic-Analysis-and-Severity-Predictive-Model./blob/master/AnalysisandArchitecture/Picture7.png)
